@@ -8,7 +8,7 @@ console.log(articles)
 return (
 <div >
 <Head>
-<title> WebDEv News</title>
+<title> WebDEv Novosti</title>
 <meta name='keywords' content='web development, programming'/>
 </Head>
 <ArticleList articles={articles} />
