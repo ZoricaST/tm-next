@@ -4,9 +4,9 @@ const about = () => {
 return (
 <div>
 <Head>
-<title> About</title>
+<title> O nama</title>
 </Head>
-<h1>About</h1> 
+<h1>O nama</h1> 
 </div>
 )
 }
